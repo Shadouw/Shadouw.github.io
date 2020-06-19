@@ -11,3 +11,5 @@ Mein Lieblingscharakter ist natürlich der beste und tollest überhaupt. Was sol
 
 > Bunt ist das Dasein 
 > und granatenstark
+
+<img src="https://live.staticflickr.com/8277/29130960912_6ae02e4539_b.jpg" />
