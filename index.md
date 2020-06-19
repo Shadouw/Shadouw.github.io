@@ -8,3 +8,6 @@ Mein Lieblingscharakter ist natürlich der beste und tollest überhaupt. Was sol
 * 100 Oskars
 * Serienstar
 * Schlechter Autofahrer
+
+> Bunt ist das Dasein 
+> und granatenstark
